@@ -7,4 +7,10 @@ class StaticPagesController < ApplicationController
 
   def contact
   end
+
+  def admin
+  end
+
+  def member
+  end
 end
